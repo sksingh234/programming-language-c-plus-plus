@@ -14,10 +14,6 @@ int main()
         {
             maxvalue = arr[idx];
         }
-        else
-        {
-            continue;
-        }
     }
     cout << "the maximum value out of array element is :" << maxvalue;
     return 0;
